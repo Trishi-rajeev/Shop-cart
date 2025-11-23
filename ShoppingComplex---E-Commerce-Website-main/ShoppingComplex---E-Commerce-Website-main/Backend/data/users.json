@@ -1,0 +1,56 @@
+[
+    {
+        "user_id": "user001",
+        "username": "john_doe",
+        "email": "john@example.com",
+        "preferences": [
+            "Electronics",
+            "Sports"
+        ],
+        "purchase_history": [
+            "prod001",
+            "prod007"
+        ],
+        "viewed_products": [
+            "prod001",
+            "prod002",
+            "prod007",
+            "prod008"
+        ]
+    },
+    {
+        "user_id": "user002",
+        "username": "jane_smith",
+        "email": "jane@example.com",
+        "preferences": [
+            "Clothing",
+            "Accessories"
+        ],
+        "purchase_history": [
+            "prod003",
+            "prod010"
+        ],
+        "viewed_products": [
+            "prod003",
+            "prod010"
+        ]
+    },
+    {
+        "user_id": "user003",
+        "username": "mike_wilson",
+        "email": "mike@example.com",
+        "preferences": [
+            "Home & Kitchen",
+            "Electronics"
+        ],
+        "purchase_history": [
+            "prod004",
+            "prod009"
+        ],
+        "viewed_products": [
+            "prod004",
+            "prod006",
+            "prod009"
+        ]
+    }
+]

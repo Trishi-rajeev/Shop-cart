@@ -1,0 +1,68 @@
+[
+    {
+        "user_id": "user001",
+        "product_id": "prod001",
+        "interaction_type": "purchase",
+        "rating": 5.0,
+        "timestamp": "2025-11-15T10:30:00"
+    },
+    {
+        "user_id": "user001",
+        "product_id": "prod002",
+        "interaction_type": "view",
+        "timestamp": "2025-11-16T14:20:00"
+    },
+    {
+        "user_id": "user001",
+        "product_id": "prod007",
+        "interaction_type": "purchase",
+        "rating": 4.5,
+        "timestamp": "2025-11-18T09:15:00"
+    },
+    {
+        "user_id": "user001",
+        "product_id": "prod008",
+        "interaction_type": "cart",
+        "timestamp": "2025-11-20T16:45:00"
+    },
+    {
+        "user_id": "user002",
+        "product_id": "prod003",
+        "interaction_type": "purchase",
+        "rating": 4.0,
+        "timestamp": "2025-11-17T11:30:00"
+    },
+    {
+        "user_id": "user002",
+        "product_id": "prod010",
+        "interaction_type": "purchase",
+        "rating": 5.0,
+        "timestamp": "2025-11-19T13:20:00"
+    },
+    {
+        "user_id": "user003",
+        "product_id": "prod004",
+        "interaction_type": "purchase",
+        "rating": 4.5,
+        "timestamp": "2025-11-16T15:10:00"
+    },
+    {
+        "user_id": "user003",
+        "product_id": "prod006",
+        "interaction_type": "view",
+        "timestamp": "2025-11-18T10:30:00"
+    },
+    {
+        "user_id": "user003",
+        "product_id": "prod009",
+        "interaction_type": "purchase",
+        "rating": 5.0,
+        "timestamp": "2025-11-20T12:00:00"
+    },
+    {
+        "user_id": "user001",
+        "product_id": "prod005",
+        "interaction_type": "wishlist",
+        "timestamp": "2025-11-21T08:30:00"
+    }
+]

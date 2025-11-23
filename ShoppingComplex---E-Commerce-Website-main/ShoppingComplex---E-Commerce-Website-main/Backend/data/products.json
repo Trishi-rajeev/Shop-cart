@@ -1,0 +1,191 @@
+[
+    {
+        "product_id": "prod001",
+        "name": "Wireless Bluetooth Headphones",
+        "category": "Electronics",
+        "price": 79.99,
+        "description": "Premium wireless headphones with noise cancellation and 30-hour battery life",
+        "brand": "AudioTech",
+        "tags": [
+            "wireless",
+            "bluetooth",
+            "headphones",
+            "audio",
+            "music"
+        ],
+        "image_url": "/images/headphones.jpg",
+        "rating": 4.5,
+        "num_ratings": 1250,
+        "stock": 150
+    },
+    {
+        "product_id": "prod002",
+        "name": "Smart Fitness Watch",
+        "category": "Electronics",
+        "price": 199.99,
+        "description": "Advanced fitness tracker with heart rate monitor, GPS, and sleep tracking",
+        "brand": "FitGear",
+        "tags": [
+            "smartwatch",
+            "fitness",
+            "health",
+            "tracker",
+            "sports"
+        ],
+        "image_url": "/images/smartwatch.jpg",
+        "rating": 4.7,
+        "num_ratings": 890,
+        "stock": 200
+    },
+    {
+        "product_id": "prod003",
+        "name": "Organic Cotton T-Shirt",
+        "category": "Clothing",
+        "price": 24.99,
+        "description": "Comfortable 100% organic cotton t-shirt in multiple colors",
+        "brand": "EcoWear",
+        "tags": [
+            "tshirt",
+            "cotton",
+            "organic",
+            "clothing",
+            "casual"
+        ],
+        "image_url": "/images/tshirt.jpg",
+        "rating": 4.3,
+        "num_ratings": 450,
+        "stock": 500
+    },
+    {
+        "product_id": "prod004",
+        "name": "Stainless Steel Water Bottle",
+        "category": "Home & Kitchen",
+        "price": 29.99,
+        "description": "Insulated stainless steel water bottle keeps drinks cold for 24 hours",
+        "brand": "HydroLife",
+        "tags": [
+            "water bottle",
+            "insulated",
+            "stainless steel",
+            "eco-friendly"
+        ],
+        "image_url": "/images/waterbottle.jpg",
+        "rating": 4.6,
+        "num_ratings": 670,
+        "stock": 300
+    },
+    {
+        "product_id": "prod005",
+        "name": "Yoga Mat Premium",
+        "category": "Sports",
+        "price": 49.99,
+        "description": "Non-slip yoga mat with extra cushioning for comfort",
+        "brand": "ZenFit",
+        "tags": [
+            "yoga",
+            "mat",
+            "fitness",
+            "exercise",
+            "wellness"
+        ],
+        "image_url": "/images/yogamat.jpg",
+        "rating": 4.8,
+        "num_ratings": 320,
+        "stock": 180
+    },
+    {
+        "product_id": "prod006",
+        "name": "LED Desk Lamp",
+        "category": "Home & Kitchen",
+        "price": 39.99,
+        "description": "Adjustable LED desk lamp with multiple brightness levels and USB charging port",
+        "brand": "BrightSpace",
+        "tags": [
+            "lamp",
+            "led",
+            "desk",
+            "lighting",
+            "study"
+        ],
+        "image_url": "/images/desklamp.jpg",
+        "rating": 4.4,
+        "num_ratings": 280,
+        "stock": 220
+    },
+    {
+        "product_id": "prod007",
+        "name": "Running Shoes Pro",
+        "category": "Sports",
+        "price": 89.99,
+        "description": "Lightweight running shoes with advanced cushioning technology",
+        "brand": "RunMax",
+        "tags": [
+            "shoes",
+            "running",
+            "sports",
+            "athletic",
+            "footwear"
+        ],
+        "image_url": "/images/runningshoes.jpg",
+        "rating": 4.6,
+        "num_ratings": 540,
+        "stock": 350
+    },
+    {
+        "product_id": "prod008",
+        "name": "Portable Phone Charger",
+        "category": "Electronics",
+        "price": 34.99,
+        "description": "20000mAh portable power bank with fast charging capability",
+        "brand": "PowerPlus",
+        "tags": [
+            "charger",
+            "power bank",
+            "portable",
+            "battery",
+            "mobile"
+        ],
+        "image_url": "/images/powerbank.jpg",
+        "rating": 4.5,
+        "num_ratings": 920,
+        "stock": 400
+    },
+    {
+        "product_id": "prod009",
+        "name": "Coffee Maker Deluxe",
+        "category": "Home & Kitchen",
+        "price": 129.99,
+        "description": "Programmable coffee maker with thermal carafe and auto-brew feature",
+        "brand": "BrewMaster",
+        "tags": [
+            "coffee",
+            "maker",
+            "kitchen",
+            "appliance",
+            "brewing"
+        ],
+        "image_url": "/images/coffeemaker.jpg",
+        "rating": 4.7,
+        "num_ratings": 410,
+        "stock": 120
+    },
+    {
+        "product_id": "prod010",
+        "name": "Backpack Laptop",
+        "category": "Accessories",
+        "price": 59.99,
+        "description": "Durable laptop backpack with multiple compartments and USB charging port",
+        "brand": "TravelPro",
+        "tags": [
+            "backpack",
+            "laptop",
+            "bag",
+            "travel",
+            "school"
+        ],
+        "image_url": "/images/backpack.jpg",
+        "rating": 4.5,
+        "num_ratings": 630,
+        "stock": 250
+    }
+]
