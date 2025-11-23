@@ -337,10 +337,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Rahul Sharma**
+**Trishi Rajeev**
 
-- GitHub: [@Rahu1007](https://github.com/Rahu1007)
-- Project Link: [ShoppingComplex](https://github.com/Rahu1007/ShoppingComplex---E-Commerce-Website)
+- GitHub: [@Trishi Rajeev]([(https://github.com/Trishi-rajeev)])
+- Project Link: [ShoppingComplex]([(https://github.com/Trishi-rajeev/Shop-cart)])
 
 ---
 
